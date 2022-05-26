@@ -1,0 +1,36 @@
+[
+    {
+        "id":1,
+        "playlist":"estudiar",
+        "artista":"Eminem",
+        "nombre" : "Without Me",
+        "url":"assets/music/estudiar/Eminem - Without Me.mp3",
+        "duracion":200
+    },
+    {
+        "id":2,
+        "playlist":"estudiar",
+        "artista":"George Michael",
+        "nombre" : "Careless Whisper",
+        "url":"assets/music/estudiar/George Michael - Careless Whisper (Official Video)(MP3_160K)_1.mp3",
+        "duracion":448
+    },
+    {
+        "id":3,
+        "playlist":"estudiar",
+        "artista":"Get You The Moon",
+        "nombre" : "Kina ft Sno",
+        "url":"assets/music/estudiar/Get You The Moon - Kina ft Snow (Letra en Español)(MP3_160K)_1.mp3",
+        "duracion":211
+    },
+    {
+        "id":4,
+        "playlist":"estudiar",
+        "artista":"Drake",
+        "nombre" : "God_s Plan",
+        "url":"assets/music/estudiar/God_s Plan.m4a",
+        "duracion":211
+    }
+
+
+]
